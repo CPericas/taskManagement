@@ -1,0 +1,18 @@
+.custom-heading {
+    background-color: #80acff;
+    color: rgb(123, 123, 123);
+    padding: 15px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.822);
+    border-radius: 5px;
+}
+
+.sign-in-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
